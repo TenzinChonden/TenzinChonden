@@ -1,7 +1,5 @@
 ### Tenzin Chonden | Data Analytics & Business Technology Management
 
-Business Technology Management & Mathematics student in Toronto focused on turning raw operational and sales data into automated pipelines and executive dashboards.
-
 **Core Stack:** `Power BI (DAX)` · `SQL` · `Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn)` · `Excel (Power Query / PivotTables / VBA)` · `Git` · `Linux`
 
 ---
